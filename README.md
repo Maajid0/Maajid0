@@ -10,6 +10,7 @@ Let’s connect, collaborate, and learn together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maajid-adde-14ab6524a/)
+[![Outlook](https://img.shields.io/badge/Outlook-%230E76A8.svg?logo=microsoft-outlook&logoColor=white)](mailto:maajida21@outlook.com)
 
 ---
 
