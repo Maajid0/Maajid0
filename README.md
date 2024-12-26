@@ -2,7 +2,7 @@
 
 Hey there! I'm **Maajid** 👋.<br><br>
 I'm a **DevOps enthusiast** who loves finding ways to automate processes, improve infrastructure, and make systems run smoother. Right now, I’m diving deep into **Linux**, **AWS**, **Docker**, **Kubernetes**, and everything in between to build efficient and scalable solutions.<br><br>
-I’m passionate about continuous learning, especially when it comes to **cloud computing**, **containerization**, and building solid **CI/CD pipelines**. Every project I work on is a step toward mastering the tools and best practices that make DevOps work at its best.<br><br>
+I’m passionate about continuous learning, especially when it comes to **cloud computing**, **containerisation**, and building solid **CI/CD pipelines**. Every project I work on is a step toward mastering the tools and best practices that make DevOps work at its best.<br><br>
 Let’s connect, collaborate, and learn together!
 
 
